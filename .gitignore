@@ -1,0 +1,8 @@
+api_key.py
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+venv/
+.vscode/
+*.log
